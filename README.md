@@ -1,4 +1,4 @@
-# laptop_price_pridiction
+# laptop_price_prediction
 This repository contains a machine learning project that aims to predict the prices of laptops based on various features using a Random Forest Regressor. The project includes data preprocessing steps, model training, and a Flask web application for accessing the machine learning model.
 # Project Overview
 The primary goal of this project is to build a predictive model that can estimate laptop prices based on features such as brand, processor type, RAM size, storage capacity, and more. The machine learning model is built using the Random Forest Regression algorithm, which is known for its robustness and accuracy in regression tasks.
